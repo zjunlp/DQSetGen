@@ -1,0 +1,22 @@
+{"entities": 
+{
+    "GPE": {"short": "GPE", "verbose": "GPE"},
+    "NORP": {"short": "NORP", "verbose": "NORP"},
+    "PERSON": {"short": "PERSON", "verbose": "PERSON"},
+    "DATE": {"short": "DATE", "verbose": "DATE"},
+    "TIME": {"short": "TIME", "verbose": "TIME"},
+    "ORDINAL": {"short": "ORDINAL", "verbose": "ORDINAL"},
+    "ORG": {"short": "ORG", "verbose": "ORG"},
+    "LOC": {"short": "LOC", "verbose": "LOC"},
+    "CARDINAL": {"short": "CARDINAL", "verbose": "CARDINAL"},
+    "LANGUAGE": {"short": "LANGUAGE", "verbose": "LANGUAGE"},
+    "FAC": {"short": "FAC", "verbose": "FAC"},
+    "MONEY": {"short": "MONEY", "verbose": "MONEY"},
+    "PERCENT": {"short": "PERCENT", "verbose": "PERCENT"},
+    "EVENT": {"short": "EVENT", "verbose": "EVENT"},
+    "QUANTITY": {"short": "QUANTITY", "verbose": "QUANTITY"},
+    "WORK_OF_ART": {"short": "WORK_OF_ART", "verbose": "WORK_OF_ART"},
+    "PRODUCT": {"short": "PRODUCT", "verbose": "PRODUCT"},
+    "LAW": {"short": "LAW", "verbose": "LAW"}
+}, 
+"relations": {}}
