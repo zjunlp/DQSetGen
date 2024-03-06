@@ -9,7 +9,7 @@ This repository is the official implementation of our paper "[Sequence Labeling 
   - [🌟 Overview](#-overview)
   - [📕 Requirements](#-requirements)
   - [📚 Dataset](#-dataset)
-  - [🚀 Let's Train](#-training)
+  - [🚀 Let's Train](#-lets-train)
   - [🚁 Evaluation](#-evaluation)
   - [❗️ Note](#-note)
   - [Citation](#citation)
@@ -77,7 +77,7 @@ To evaluate our model, you are need to modify the `config/eval.config` and run f
 python main.py eval --config/eval.conf
 ```
 
-> ## ❗️ Note
+## ❗️ Note
 > In some datasets we may use the glove vector, as it is too big to upload, you can download it at [glove](http://nlp.stanford.edu/data/glove.6B.zip) and put it in the `glove/` folder.
 
 ## Citation
